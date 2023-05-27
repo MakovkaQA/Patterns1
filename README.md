@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/rthqww46ygh7x558?svg=true)](https://ci.appveyor.com/project/MakovkaQA/deliverycardwithdatagenerator)
+[![Build status](https://ci.appveyor.com/api/projects/status/77k50mk5kimphkna?svg=true)](https://ci.appveyor.com/project/MakovkaQA/deliverycardmodification)
